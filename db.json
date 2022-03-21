@@ -2,19 +2,51 @@
   "clientes": [
     {
       "nombre": "jaco!",
-      "empresa": "venta d juegoa",
+      "empresa": "venta de juegos gamer",
       "email": "joao@wwwdw.cl",
       "telefono": "32323232",
       "notas": "vende minecraf",
       "id": 3
     },
     {
-      "nombre": "rodrigo",
-      "empresa": "desarrollo web",
+      "nombre": "rodrigoi",
+      "empresa": "Ventas productos 6 region",
       "email": "rodrigo0878@gmail.com",
       "telefono": "0946819086",
-      "notas": "desarrolo web en js , react , node",
+      "notas": "hghghfghf",
       "id": 4
+    },
+    {
+      "nombre": "javita",
+      "empresa": "casa",
+      "email": "rodrigo0878@gmail.com",
+      "telefono": "0946819086",
+      "notas": "casa",
+      "id": 5
+    },
+    {
+      "nombre": "chimuelo",
+      "empresa": "empresa perruna",
+      "email": "chimuelo@perros.cl",
+      "telefono": "66666666666",
+      "notas": "vende comida de perros",
+      "id": 6
+    },
+    {
+      "nombre": "nube de org",
+      "empresa": "empresa perruna",
+      "email": "nube@nubedeorg.cl",
+      "telefono": "45454534534534",
+      "notas": "vende galletas de perro",
+      "id": 7
+    },
+    {
+      "nombre": "yoyo aguilera",
+      "empresa": "diseño web y programacion",
+      "email": "gerente@ravymaster.cl",
+      "telefono": "999999999999",
+      "notas": "creador de programas para hackiar tu wifi",
+      "id": 8
     }
   ]
 }
